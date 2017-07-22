@@ -22,9 +22,9 @@ echo
 
 for color in '' '-dark' '-light' ; do
   for size in '' '-compact' ; do
-    echo Installing Flat-Plat${color}${size} ...
+    echo Installing Flat-Plat-Bumblebee${color}${size} ...
 
-    themedir=${destdir}/usr/share/themes/Flat-Plat${color}${size}
+    themedir=${destdir}/usr/share/themes/Flat-Plat-Bumblebee${color}${size}
     install -d ${themedir}
 
     # Copy COPYING

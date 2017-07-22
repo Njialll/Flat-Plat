@@ -5,8 +5,8 @@ Comment=A Material Design-like theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Flat-Plat-compact
-MetacityTheme=Flat-Plat-compact
+GtkTheme=Flat-Plat-Bumblebee-compact
+MetacityTheme=Flat-Plat-Bumblebee-compact
 IconTheme=Adwaita
 CursorTheme=Adwaita
 CursorSize=24
